@@ -1,5 +1,5 @@
 RedesMulticapaFinanzas
 
-<img width="1200" height="600" alt="Image" src="[https://github.com/user-attachments/assets/561ae7ce-eccb-4edc-8042-6861e5ac7b9b](https://private-user-images.githubusercontent.com/264288808/555689506-e689d6ec-9f10-4a41-92ec-47429d653125.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIxNTIwMDUsIm5iZiI6MTc3MjE1MTcwNSwicGF0aCI6Ii8yNjQyODg4MDgvNTU1Njg5NTA2LWU2ODlkNmVjLTlmMTAtNGE0MS05MmVjLTQ3NDI5ZDY1MzEyNS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIyN1QwMDIxNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTY0MmVhYTBmODQwNzMxYjY3YjNhNDJmZWIwZjk5NWVlMzU5YjFiNzBmZjJkZWQ4ZDNkMTNiYWRhYzZjYWQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ay5s9UiQm_JUFUrpGCusxMHUZ67PegFSFKzC2ibnZOM)" />
+<img width="1200" height="600" alt="Image" src="[https://github.com/user-attachments/assets/561ae7ce-eccb-4edc-8042-6861e5ac7b9b]" />
 
 
